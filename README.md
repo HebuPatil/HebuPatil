@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on personal projects
+<!-- - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning keras
-- 👯 I’m looking to collaborate on anything! Feel free to email!
-- 🤔 I’m looking for help with open source.
-- 📫 Email: hebupatil@gmail.com
-- ⚡ Website: hebupatil.surge.sh
+-->
+I'm Hebu, a sophomore at Interlake High School in the IB Diploma Programme.
+
+👯 I’m looking to collaborate on anything! Feel free to contact me!
+📫 Email: hebupatil@gmail.com
+⚡ Website: hebupatil.surge.sh
 
